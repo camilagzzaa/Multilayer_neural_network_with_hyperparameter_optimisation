@@ -66,5 +66,6 @@ https://www.kaggle.com/datasets/uciml/iris
 
 ## Authors
 
-- Camila Gonzalez – https://github.com/tu-usuario-aqui
+- Camila Gonzalez – [GitHub Repo](https://github.com/camilagzzaa/Multilayer_neural_network_with_hyperparameter_optimisation.git)
 - Matteo Peroni - [GitHub Repo](https://github.com/perofficial/mlp_hyperparameters_optimisation)
+- Mariana Samperio - [Github Repo](https://github.com/mariana-samperio-cuevas/multilayer_nn_hyperparameter_optimisation)
